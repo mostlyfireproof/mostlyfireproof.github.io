@@ -1,6 +1,6 @@
 ## About me
 
-Hello! I am a student going to study cybersecurity at Northeastern in the fall, and I work on a few projects for fun.
+Hello! I am a student studying cybersecurity at Northeastern University, and I work on a few projects for fun.
 
 I competed in the UB Lockdown competition this February, and my team won first place. We defended computer network from hackers in a Red vs. Blue format.
 
@@ -13,4 +13,4 @@ Some of the projects I am working on are:
 
 ### Contact
 
-You can reach me at rrmscout (at) hotmail (dot) com, on Instagram @mostly_fireproof_, or here on Github.
+You can reach me at rrmscout (at) hotmail (dot) com, or here on Github.
